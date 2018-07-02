@@ -3,9 +3,9 @@
 		<el-row>
 			<el-col :span="10">
 				<div>
-					© 2018 GitHub-Laziji&emsp;&emsp;
-					<a href="https://github.com/GitHub-Laziji" target="_blank">Profile</a>&emsp;&emsp;
-					<a href="https://github.com/GitHub-Laziji/vblog" target="_blank">VBlog</a>
+					© 2018 JohnnyCold&emsp;&emsp;
+					<a href="https://github.com/JohnnyCold" target="_blank">Profile</a>&emsp;&emsp;
+					<a href="https://github.com/JohnnyCold/vblog" target="_blank">VBlog</a>
 				</div>
 			</el-col>
 			<el-col :span="4">
